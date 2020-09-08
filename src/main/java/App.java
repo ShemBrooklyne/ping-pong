@@ -12,5 +12,6 @@ public class App {
         PingPong pingPong = new PingPong();
         ArrayList<Object> pingPongResult = pingPong.runPingPong(intUserNumber);
         System.out.println(pingPongResult);
+        System.out.println("Thanks for trying out my pinpong game");
     }
 }

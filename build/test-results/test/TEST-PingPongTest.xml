@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PingPongTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-09-03T02:42:56" hostname="moringa-ThinkPad-T450" time="0.004">
+<testsuite name="PingPongTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-09-08T07:54:43" hostname="access-ThinkPad-T450" time="0.005">
   <properties/>
-  <testcase name="runPingPong_countUpToGivenNumber_ArrayList" classname="PingPongTest" time="0.001"/>
+  <testcase name="runPingPong_countUpToGivenNumber_ArrayList" classname="PingPongTest" time="0.002"/>
   <testcase name="runPingPong_replaceMultiplesOf3_ArrayList" classname="PingPongTest" time="0.0"/>
   <testcase name="runPingPong_replaceMultiplesOf5_ArrayList" classname="PingPongTest" time="0.0"/>
   <testcase name="runPingPong_replaceMultiplesOf15_ArrayList" classname="PingPongTest" time="0.0"/>
